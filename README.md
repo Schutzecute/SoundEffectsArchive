@@ -32,9 +32,9 @@ He gave it away because IT'S CHRISTMAS~!
 
 Zero. My YouTube channel is not monetized yet (not even planning too) and as you can see, I did not use any paying url shorteners
 
-#### How to extract .zip files? 
+#### How to open .zip files? 
 
-Go to google.com and type "how to extract zip files"
+Go to google.com and type "how to open zip files"
 
 #### Is this safe? no virus?
 
